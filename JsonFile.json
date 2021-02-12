@@ -1,8 +1,4 @@
 {
   "name": "The first stone",
-  "author": "Théo Claudel",
-  "address": "theo.claudel.eth",
-  "description": "During a trip in Canada, Picsou found its first golden stone and it was the beginning of a great adventure.",
-  "image": "https://raw.githubusercontent.com/theocdl/the-first-stone/main/duck%20tales%2023.jpg",
-  "pdf": "https://github.com/theocdl/the-first-stone/blob/main/Cession%20des%20droits.pdf"
+  "image": "https://raw.githubusercontent.com/theocdl/the-first-stone/main/duck%20tales%2023.jpg"
 }
